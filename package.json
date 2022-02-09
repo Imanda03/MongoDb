@@ -9,9 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "bcrypt": "^5.0.1",
     "mongoose": "^6.2.0",
     "nodemon": "^2.0.15"
   },
-  "devDependencies": {},
   "description": ""
 }
